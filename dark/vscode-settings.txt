@@ -8,6 +8,10 @@
 	{ "icon": "Script-dark", "extensions": ["server.lua"], "format": "png" },
 ],
 "vsicons.associations.folders": [
+	{ "icon": "ServerScriptService-dark", "extensions": ["server"], "format": "png" },
+	{ "icon": "ReplicatedStorage-dark", "extensions": ["shared"], "format": "png" },
+	{ "icon": "StarterPlayerScripts-dark", "extensions": ["client"], "format": "png" },
+	
 	{ "icon": "Lighting-dark", "extensions": ["Lighting"], "format": "png" },
 	{ "icon": "MaterialService-dark", "extensions": ["MaterialService"], "format": "png" },
 	{ "icon": "Players-dark", "extensions": ["Players"], "format": "png" },
