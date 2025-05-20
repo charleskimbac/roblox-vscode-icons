@@ -1,0 +1,28 @@
+"vsicons.associations.files": [
+	{ "icon": "ModuleScript-light", "extensions": ["luau"], "format": "png" },
+	{ "icon": "LocalScript-light", "extensions": ["client.luau"], "format": "png" },
+	{ "icon": "Script-light", "extensions": ["server.luau"], "format": "png" },
+
+	{ "icon": "ModuleScript-light", "extensions": ["lua"], "format": "png" },
+	{ "icon": "LocalScript-light", "extensions": ["client.lua"], "format": "png" },
+	{ "icon": "Script-light", "extensions": ["server.lua"], "format": "png" },
+],
+"vsicons.associations.folders": [
+	{ "icon": "Lighting-light", "extensions": ["Lighting"], "format": "png" },
+	{ "icon": "MaterialService-light", "extensions": ["MaterialService"], "format": "png" },
+	{ "icon": "Players-light", "extensions": ["Players"], "format": "png" },
+	{ "icon": "ReplicatedFirst-light", "extensions": ["ReplicatedFirst"], "format": "png" },
+	{ "icon": "ReplicatedStorage-light", "extensions": ["ReplicatedStorage"], "format": "png" },
+	{ "icon": "ServerScriptService-light", "extensions": ["ServerScriptService"], "format": "png" },
+	{ "icon": "ServerStorage-light", "extensions": ["ServerStorage"], "format": "png" },
+	{ "icon": "SoundService-light", "extensions": ["SoundService"], "format": "png" },
+	{ "icon": "StarterCharacterScripts-light", "extensions": ["StarterCharacterScripts"], "format": "png" },
+	{ "icon": "StarterGui-light", "extensions": ["StarterGui"], "format": "png" },
+	{ "icon": "StarterPack-light", "extensions": ["StarterPack"], "format": "png" },
+	{ "icon": "StarterPlayer-light", "extensions": ["StarterPlayer"], "format": "png" },
+	{ "icon": "StarterPlayerScripts-light", "extensions": ["StarterPlayerScripts"], "format": "png" },
+	{ "icon": "Teams-light", "extensions": ["Teams"], "format": "png" },
+	{ "icon": "TestService-light", "extensions": ["TestService"], "format": "png" },
+	{ "icon": "TextChatService-light", "extensions": ["TextChatService"], "format": "png" },
+	{ "icon": "Workspace-light", "extensions": ["Workspace"], "format": "png" }
+],

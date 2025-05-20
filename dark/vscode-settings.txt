@@ -1,0 +1,28 @@
+"vsicons.associations.files": [
+	{ "icon": "ModuleScript-dark", "extensions": ["luau"], "format": "png" },
+	{ "icon": "LocalScript-dark", "extensions": ["client.luau"], "format": "png" },
+	{ "icon": "Script-dark", "extensions": ["server.luau"], "format": "png" },
+
+	{ "icon": "ModuleScript-dark", "extensions": ["lua"], "format": "png" },
+	{ "icon": "LocalScript-dark", "extensions": ["client.lua"], "format": "png" },
+	{ "icon": "Script-dark", "extensions": ["server.lua"], "format": "png" },
+],
+"vsicons.associations.folders": [
+	{ "icon": "Lighting-dark", "extensions": ["Lighting"], "format": "png" },
+	{ "icon": "MaterialService-dark", "extensions": ["MaterialService"], "format": "png" },
+	{ "icon": "Players-dark", "extensions": ["Players"], "format": "png" },
+	{ "icon": "ReplicatedFirst-dark", "extensions": ["ReplicatedFirst"], "format": "png" },
+	{ "icon": "ReplicatedStorage-dark", "extensions": ["ReplicatedStorage"], "format": "png" },
+	{ "icon": "ServerScriptService-dark", "extensions": ["ServerScriptService"], "format": "png" },
+	{ "icon": "ServerStorage-dark", "extensions": ["ServerStorage"], "format": "png" },
+	{ "icon": "SoundService-dark", "extensions": ["SoundService"], "format": "png" },
+	{ "icon": "StarterCharacterScripts-dark", "extensions": ["StarterCharacterScripts"], "format": "png" },
+	{ "icon": "StarterGui-dark", "extensions": ["StarterGui"], "format": "png" },
+	{ "icon": "StarterPack-dark", "extensions": ["StarterPack"], "format": "png" },
+	{ "icon": "StarterPlayer-dark", "extensions": ["StarterPlayer"], "format": "png" },
+	{ "icon": "StarterPlayerScripts-dark", "extensions": ["StarterPlayerScripts"], "format": "png" },
+	{ "icon": "Teams-dark", "extensions": ["Teams"], "format": "png" },
+	{ "icon": "TestService-dark", "extensions": ["TestService"], "format": "png" },
+	{ "icon": "TextChatService-dark", "extensions": ["TextChatService"], "format": "png" },
+	{ "icon": "Workspace-dark", "extensions": ["Workspace"], "format": "png" }
+],
