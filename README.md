@@ -21,3 +21,6 @@ Change your file and folder icons to match the ones on Roblox Studio!
     - Note that the last line already in `settings.json` should be `"workbench.iconTheme": "vscode-icons",`. If it is not there already, add it.
 1. `Ctrl/Cmd+S` to save the file.
 1. The changes should take effect immediately. If they don't, restart VSCode.
+
+## Credits
+All icons are owned by Roblox Corporation.
