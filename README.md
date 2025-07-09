@@ -1,8 +1,8 @@
 # Roblox VSCode Icons
 
-Going from scripting in Roblox Studio into scripting in VS Code will feel strange at first. Using [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons), the transition can be a bit smoother and things will feel much more familiar.  
+Going from scripting in Roblox Studio into scripting in VS Code may feel strange. Using [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons), the transition can be a bit smoother and things will feel much more familiar. Using `client`, `server`, and `shared` as folder names or `*.ts` file extensions (for roblox-ts) are supported.
 
-Change your file and folder icons to match the ones on Roblox Studio!
+Change your file and folder icons in VS Code to match the ones on Roblox Studio!
 
 <img src=example.png style="max-height: 400px"/>
 

@@ -6,6 +6,11 @@
 	{ "icon": "ModuleScript-dark", "extensions": ["lua"], "format": "png" },
 	{ "icon": "LocalScript-dark", "extensions": ["client.lua"], "format": "png" },
 	{ "icon": "Script-dark", "extensions": ["server.lua"], "format": "png" },
+
+	// if you use roblox-ts, uncomment the following for .ts files
+	// { "icon": "ModuleScript-dark", "extensions": ["ts"], "format": "png" },
+	// { "icon": "LocalScript-dark", "extensions": ["client.ts"], "format": "png" },
+	// { "icon": "Script-dark", "extensions": ["server.ts"], "format": "png" },
 ],
 "vsicons.associations.folders": [
 	{ "icon": "ServerScriptService-dark", "extensions": ["server"], "format": "png" },
