@@ -1,8 +1,8 @@
 # Roblox VSCode Icons
 
-Going from scripting in Roblox Studio into scripting in VS Code may feel strange. Using [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons), the transition can be a bit smoother and things will feel much more familiar. Using `client`, `server`, and `shared` as folder names or `*.ts` file extensions (for roblox-ts) are supported.
+Going from scripting in Roblox Studio to scripting in VS Code may feel strange. Using [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons), the transition can feel smoother and more familiar.  
 
-Change your file and folder icons in VS Code to match the ones on Roblox Studio!
+Change your file and folder icons in VS Code to match the ones on Roblox Studio! Using `client`, `server`, and `shared` as folder names or `*.ts` file extensions (for `roblox-ts`) is also supported.
 
 <img src=example.png style="max-height: 400px"/>
 
@@ -20,7 +20,9 @@ Change your file and folder icons in VS Code to match the ones on Roblox Studio!
 1. Copy and paste everything in the `vscode-settings.txt` file into a new line at the bottom of the `settings.json` file in VSCode.
     - Note that the last line already in `settings.json` should be `"workbench.iconTheme": "vscode-icons",`. If it is not there already, add it.
 1. `Ctrl/Cmd+S` to save the file.
-1. The changes should take effect immediately. If they don't, ensure your file icon theme is set to `VSCode Icons` in the command palette.
+1. The changes should take effect immediately. If they don't, ensure your `File Icon Theme` is set to `VSCode Icons` in the command palette, or try selecting `None` first and then reselecting `VSCode Icons`.  
+
+Consider starring if this helped you out, thanks!
 
 ## Credits
 All icons are owned by Roblox Corporation.
